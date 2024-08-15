@@ -1,6 +1,6 @@
 !Header Image
 
-# Hi there, I'm Abhilash 👋
+# Hi there, I'm [Your Name] 👋
 
 ## About Me
 I'm a university student passionate about software development, currently focusing on front-end development and mastering data structures and algorithms.
