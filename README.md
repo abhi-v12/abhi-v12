@@ -28,13 +28,5 @@ I'm a university student passionate about software development, currently focusi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> 
 
-## 📈 GitHub Stats
-!Your GitHub Stats
-!Top Languages
-
-## 📫 Contact Me
-- LinkedIn
-- Twitter
-- Email
 
 
